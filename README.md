@@ -46,8 +46,8 @@ The Arduino sketch controls the light bar's flashing modes based on button press
 ## How to Use
 1. Upload the provided Arduino code to your board.
 2. Wire the components as per the schematic.
-3. Press the **Fast Strobe Button** to activate/deactivate fast strobe mode.
-4. Press the **Strobe Button** to activate/deactivate normal strobe mode.
+3. Press the **Fast Strobe Button** (left button) to activate/deactivate fast strobe mode.
+4. Press the **Strobe Button** (right button) to activate/deactivate normal strobe mode.
 5. The indicator LEDs will turn on to show the active mode.
 
 ## License
